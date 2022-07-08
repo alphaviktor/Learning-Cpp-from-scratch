@@ -1,0 +1,19 @@
+STEPS TO UPLOAD MY PROJECT ON GITHUB
+
+1. touch .gitignore (to create a file to hide the unnecessary files, its a text file and to hide files just type it into .gitignore and add a /_
+2. git config --global user.name viktor
+3. git config --global user.email "akshatt619@gmail.com"
+4. git init (to initialise git repository)
+5. git add . (to get those files in staging area)
+6. git commit -m "Initial commit" (to create the commit)
+7. git status (just to see)
+8. ssh-keygen -t rsa -b 4096 -C "akshatt619@gmail.com" (to generate ssh key)
+9. tail <path to id_rsa.pub> (add this key to your GitHub account)
+10. git remote add origin <ssh url.git> 
+11. git push origin master
+
+TO UPDATE YOUR REPOSITORY
+
+1. git add .
+2. git commmit -m "Added"
+3. git push origin master
