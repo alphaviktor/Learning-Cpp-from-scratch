@@ -1,0 +1,1 @@
+{"name":"Local: max_in_arr","url":"c:\\Users\\HP\\Desktop\\C++\\max_in_arr.cpp","tests":[{"id":1658222894807,"input":"3\n10 30 22","output":"30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\C++\\max_in_arr.cpp","group":"local","local":true}
