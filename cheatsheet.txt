@@ -8,6 +8,7 @@ STEPS TO UPLOAD MY PROJECT ON GITHUB
 6. git commit -m "Initial commit" (to create the commit)
 7. git status (just to see)
 8. ssh-keygen -t rsa -b 4096 -C "akshatt619@gmail.com" (to generate ssh key)
+9. copy the path of SSh key and type in cat <path> to get the actual SSH key that has to pasted in GitHub
 9. tail <path to id_rsa.pub> (add this key to your GitHub account)
 10. git remote add origin <ssh url.git> 
 11. git push origin master

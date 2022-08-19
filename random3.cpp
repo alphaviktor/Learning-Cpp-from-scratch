@@ -4,17 +4,18 @@
 using namespace std;
 int main()
 {
-    int i;
-    float arr[7];
-    arr[7]= (10,5,23,11,34,56,1);
+    int i, n=7;
+    float arr[n];
+    arr[n]= (10,5,23,11,34,56,1);
     for (i=0; i<7; i++){
-        if (arr[i] == 11){
+        if (arr[n] == 11){
             cout<<"We found 11 at index number "<<i<<endl;
         }
         else{}
 
     }
-    cout<<n//2;
-    
+    int x = n/2;
+    cout<<x;
+
     return 0;
 }
