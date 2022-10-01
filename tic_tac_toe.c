@@ -23,7 +23,7 @@ void main()
         do
         {
 
-                printf("\n\t\t\t\tTIC TAC TOE");
+                printf("\n\t\t\t\tTic Tac Toe");
                 printf("\n\t\t\t\t");
                 for(i=1;i<=11;i++)
                 {
