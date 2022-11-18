@@ -211,7 +211,7 @@ void PlayerO()
         }
 }
 
-// it's amartya part
+// it's amartya part.
 void Player_win()
 {
         int i;
