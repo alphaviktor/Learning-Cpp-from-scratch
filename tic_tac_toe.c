@@ -210,6 +210,8 @@ void PlayerO()
                 Board();
         }
 }
+
+// it's amartya part
 void Player_win()
 {
         int i;
