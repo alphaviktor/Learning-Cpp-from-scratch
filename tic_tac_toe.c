@@ -161,7 +161,7 @@ void Board()
         Player_win();
 }
 
-
+//its chitwan's part
 void PlayerX()
 {
         int row,col;
